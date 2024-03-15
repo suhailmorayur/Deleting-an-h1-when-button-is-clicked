@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(197, 245, 245);
+    
+}
+#first{
+    border-radius: 1rem;
+    padding: 1rem 2rem 1rem 2rem ;
+    font-size: 1rem;
+    color:white;
+    
+    background-color: black;
+}
+
+#element{
+    color: rgb(254, 0, 0);
+    font-size: 3rem;
+}
+
+#toDelete,h1{
+    color: rgb(30, 3, 73);
+    font-size: 3rem; 
+}
+
+#deleteButton{
+    border-radius: 1rem;
+    padding: 1rem 2rem 1rem 2rem ;
+    font-size: 1rem;
+    color:white;
+    
+    background-color: black;
+}
